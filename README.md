@@ -1,1 +1,1 @@
-# RNA-Seq-Analysis
+# RNA-Seq-differential-expression-pipeline
