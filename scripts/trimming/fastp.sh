@@ -6,7 +6,7 @@
 #Date:28 Feb 2026
 #====================================================================
 #Load configuration
-source config_trimm.sh
+source config.sh
 #===========User adjustable parameters===============================
 #This may be adjusted based on the sequence quality
 TRIM_FRONT_1=15
